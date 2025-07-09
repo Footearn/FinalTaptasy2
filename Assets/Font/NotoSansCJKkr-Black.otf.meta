@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6349d381f1974dac8a2c06af73c34153
+timeCreated: 1606423203
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "NotoSansCJKkr-Black"
+  fontNames:
+  - Noto Sans CJK KR
+  - Noto Sans Thai
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

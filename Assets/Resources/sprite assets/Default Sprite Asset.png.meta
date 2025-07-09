@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: d3748da4476242d990498f3bae8942b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Default Sprite Asset_0
+  - first:
+      213: 21300002
+    second: Default Sprite Asset_1
+  - first:
+      213: 21300004
+    second: Default Sprite Asset_2
+  - first:
+      213: 21300006
+    second: Default Sprite Asset_3
+  - first:
+      213: 21300008
+    second: Default Sprite Asset_4
+  - first:
+      213: 21300010
+    second: Default Sprite Asset_5
+  - first:
+      213: 21300012
+    second: Default Sprite Asset_6
+  - first:
+      213: 21300014
+    second: Default Sprite Asset_7
+  - first:
+      213: 21300016
+    second: Default Sprite Asset_8
+  - first:
+      213: 21300018
+    second: Default Sprite Asset_11
+  - first:
+      213: 21300020
+    second: Default Sprite Asset_12
+  - first:
+      213: 21300022
+    second: Default Sprite Asset_13
+  - first:
+      213: 21300024
+    second: Default Sprite Asset_14
+  - first:
+      213: 21300026
+    second: Default Sprite Asset_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Default Sprite Asset_2
+      rect:
+        serializedVersion: 2
+        x: 266.0268
+        y: 388.0761
+        width: 108.9465
+        height: 105.8478
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54, y: -60}
+        - {x: -54, y: 7}
+        - {x: 44, y: -60}
+      - - {x: -37, y: 46}
+        - {x: 44, y: -60}
+        - {x: -54, y: 7}
+      - - {x: 31, y: 46}
+        - {x: 44, y: -60}
+        - {x: -37, y: 46}
+      - - {x: 50, y: 37}
+        - {x: 44, y: -60}
+        - {x: 31, y: 46}
+      - - {x: 50, y: -55}
+        - {x: 44, y: -60}
+        - {x: 50, y: 37}
+      - - {x: 55, y: -45}
+        - {x: 50, y: -55}
+        - {x: 50, y: 37}
+      - - {x: 55, y: -5}
+        - {x: 55, y: -45}
+        - {x: 50, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_11
+      rect:
+        serializedVersion: 2
+        x: 144.0761
+        y: 129.0761
+        width: 353.8478
+        height: 123.8478
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -176, y: -61}
+        - {x: -176, y: 59}
+        - {x: -174, y: -63}
+      - - {x: -174, y: 61}
+        - {x: -174, y: -63}
+        - {x: -176, y: 59}
+      - - {x: 176, y: -63}
+        - {x: -174, y: -63}
+        - {x: -174, y: 61}
+      - - {x: 172, y: 61}
+        - {x: 176, y: -63}
+        - {x: -174, y: 61}
+      - - {x: 176, y: 60}
+        - {x: 176, y: -63}
+        - {x: 172, y: 61}
+      - - {x: 178, y: -61}
+        - {x: 176, y: -63}
+        - {x: 176, y: 60}
+      - - {x: 178, y: 58}
+        - {x: 178, y: -61}
+        - {x: 176, y: 60}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_15
+      rect:
+        serializedVersion: 2
+        x: 393.0268
+        y: 5.07612
+        width: 108.9465
+        height: 111.8478
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55, y: -43}
+        - {x: -55, y: -30}
+        - {x: -46, y: -53}
+      - - {x: -47, y: -12}
+        - {x: -46, y: -53}
+        - {x: -55, y: -30}
+      - - {x: -48, y: 8}
+        - {x: -46, y: 23}
+        - {x: -47, y: -12}
+      - - {x: -46, y: -53}
+        - {x: -47, y: -12}
+        - {x: -46, y: 23}
+      - - {x: -30, y: -56}
+        - {x: -46, y: -53}
+        - {x: -46, y: 23}
+      - - {x: -27, y: 49}
+        - {x: -30, y: -56}
+        - {x: -46, y: 23}
+      - - {x: -16, y: -58}
+        - {x: -30, y: -56}
+        - {x: -27, y: 49}
+      - - {x: 3, y: 53}
+        - {x: -16, y: -58}
+        - {x: -27, y: 49}
+      - - {x: -7, y: -59}
+        - {x: -16, y: -58}
+        - {x: 3, y: 53}
+      - - {x: -5, y: -59}
+        - {x: -7, y: -59}
+        - {x: 3, y: 53}
+      - - {x: 18, y: -58}
+        - {x: -5, y: -59}
+        - {x: 3, y: 53}
+      - - {x: 25, y: 53}
+        - {x: 18, y: -58}
+        - {x: 3, y: 53}
+      - - {x: 35, y: -57}
+        - {x: 18, y: -58}
+        - {x: 25, y: 53}
+      - - {x: 54, y: 19}
+        - {x: 35, y: -57}
+        - {x: 25, y: 53}
+      - - {x: 54, y: -51}
+        - {x: 35, y: -57}
+        - {x: 54, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_7
+      rect:
+        serializedVersion: 2
+        x: 394.0268
+        y: 260.0761
+        width: 108.9465
+        height: 105.8478
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54, y: -55}
+        - {x: -54, y: 19}
+        - {x: -39, y: -60}
+      - - {x: -52, y: 27}
+        - {x: -39, y: -60}
+        - {x: -54, y: 19}
+      - - {x: -17, y: 46}
+        - {x: -39, y: -60}
+        - {x: -52, y: 27}
+      - - {x: 55, y: -60}
+        - {x: -39, y: -60}
+        - {x: -17, y: 46}
+      - - {x: 31, y: 46}
+        - {x: 55, y: -60}
+        - {x: -17, y: 46}
+      - - {x: 55, y: 24}
+        - {x: 55, y: -60}
+        - {x: 31, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_4
+      rect:
+        serializedVersion: 2
+        x: 10.02675
+        y: 260.0761
+        width: 108.9465
+        height: 109.8521
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54, y: -60}
+        - {x: -54, y: 2}
+        - {x: 25, y: -60}
+      - - {x: -36, y: 48}
+        - {x: 25, y: -60}
+        - {x: -54, y: 2}
+      - - {x: -30, y: 50}
+        - {x: 25, y: -60}
+        - {x: -36, y: 48}
+      - - {x: 24, y: 50}
+        - {x: 25, y: -60}
+        - {x: -30, y: 50}
+      - - {x: 55, y: 26}
+        - {x: 25, y: -60}
+        - {x: 24, y: 50}
+      - - {x: 55, y: -55}
+        - {x: 25, y: -60}
+        - {x: 55, y: 26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_3
+      rect:
+        serializedVersion: 2
+        x: 394.0268
+        y: 388.0761
+        width: 108.9465
+        height: 105.8971
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54, y: -55}
+        - {x: -54, y: 17}
+        - {x: -38, y: -60}
+      - - {x: -44, y: 46}
+        - {x: -38, y: -60}
+        - {x: -54, y: 17}
+      - - {x: 38, y: 46}
+        - {x: -38, y: -60}
+        - {x: -44, y: 46}
+      - - {x: 49, y: -60}
+        - {x: -38, y: -60}
+        - {x: 38, y: 46}
+      - - {x: 55, y: -10}
+        - {x: 49, y: -60}
+        - {x: 38, y: 46}
+      - - {x: 55, y: -56}
+        - {x: 49, y: -60}
+        - {x: 55, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_0
+      rect:
+        serializedVersion: 2
+        x: 10.02675
+        y: 388.0761
+        width: 108.9465
+        height: 105.8478
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54, y: -60}
+        - {x: -54, y: 7}
+        - {x: 44, y: -60}
+      - - {x: -37, y: 46}
+        - {x: 44, y: -60}
+        - {x: -54, y: 7}
+      - - {x: 31, y: 46}
+        - {x: 44, y: -60}
+        - {x: -37, y: 46}
+      - - {x: 50, y: 37}
+        - {x: 44, y: -60}
+        - {x: 31, y: 46}
+      - - {x: 50, y: -55}
+        - {x: 44, y: -60}
+        - {x: 50, y: 37}
+      - - {x: 55, y: -45}
+        - {x: 50, y: -55}
+        - {x: 50, y: 37}
+      - - {x: 55, y: -5}
+        - {x: 55, y: -45}
+        - {x: 50, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_5
+      rect:
+        serializedVersion: 2
+        x: 138.0267
+        y: 260.0761
+        width: 108.9465
+        height: 109.8971
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54, y: -54}
+        - {x: -54, y: 29}
+        - {x: -37, y: -60}
+      - - {x: -53, y: 33}
+        - {x: -37, y: -60}
+        - {x: -54, y: 29}
+      - - {x: -24, y: 50}
+        - {x: -37, y: -60}
+        - {x: -53, y: 33}
+      - - {x: 52, y: -60}
+        - {x: -37, y: -60}
+        - {x: -24, y: 50}
+      - - {x: 26, y: 50}
+        - {x: 52, y: -60}
+        - {x: -24, y: 50}
+      - - {x: 44, y: 36}
+        - {x: 52, y: -60}
+        - {x: 26, y: 50}
+      - - {x: 55, y: -9}
+        - {x: 52, y: -60}
+        - {x: 44, y: 36}
+      - - {x: 55, y: -58}
+        - {x: 52, y: -60}
+        - {x: 55, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_1
+      rect:
+        serializedVersion: 2
+        x: 138.0267
+        y: 388.0761
+        width: 108.9465
+        height: 108.881
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54, y: -45}
+        - {x: -54, y: 22}
+        - {x: -45, y: -54}
+      - - {x: -25, y: 49}
+        - {x: -45, y: -54}
+        - {x: -54, y: 22}
+      - - {x: -29, y: -57}
+        - {x: -45, y: -54}
+        - {x: -25, y: 49}
+      - - {x: -15, y: -59}
+        - {x: -29, y: -57}
+        - {x: -25, y: 49}
+      - - {x: 33, y: 49}
+        - {x: -15, y: -59}
+        - {x: -25, y: 49}
+      - - {x: -6, y: -60}
+        - {x: -15, y: -59}
+        - {x: 33, y: 49}
+      - - {x: -4, y: -60}
+        - {x: -6, y: -60}
+        - {x: 33, y: 49}
+      - - {x: 19, y: -59}
+        - {x: -4, y: -60}
+        - {x: 33, y: 49}
+      - - {x: 50, y: -55}
+        - {x: 19, y: -59}
+        - {x: 33, y: 49}
+      - - {x: 55, y: 2}
+        - {x: 50, y: -55}
+        - {x: 33, y: 49}
+      - - {x: 55, y: -50}
+        - {x: 50, y: -55}
+        - {x: 55, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_13
+      rect:
+        serializedVersion: 2
+        x: 137.0267
+        y: 4.07612
+        width: 108.9465
+        height: 114.8478
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55, y: -60}
+        - {x: -55, y: 35}
+        - {x: 40, y: -60}
+      - - {x: -31, y: 55}
+        - {x: 40, y: -60}
+        - {x: -55, y: 35}
+      - - {x: 31, y: 55}
+        - {x: 40, y: -60}
+        - {x: -31, y: 55}
+      - - {x: 44, y: 53}
+        - {x: 40, y: -60}
+        - {x: 31, y: 55}
+      - - {x: 54, y: -52}
+        - {x: 40, y: -60}
+        - {x: 44, y: 53}
+      - - {x: 54, y: 26}
+        - {x: 54, y: -52}
+        - {x: 44, y: 53}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_14
+      rect:
+        serializedVersion: 2
+        x: 265.0268
+        y: 4.07612
+        width: 108.9465
+        height: 105.8478
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55, y: -50}
+        - {x: -55, y: -8}
+        - {x: -38, y: -60}
+      - - {x: -45, y: 34}
+        - {x: -38, y: -60}
+        - {x: -55, y: -8}
+      - - {x: -36, y: 46}
+        - {x: -38, y: -60}
+        - {x: -45, y: 34}
+      - - {x: 9, y: -60}
+        - {x: -38, y: -60}
+        - {x: -36, y: 46}
+      - - {x: 26, y: 46}
+        - {x: 9, y: -60}
+        - {x: -36, y: 46}
+      - - {x: 50, y: -56}
+        - {x: 9, y: -60}
+        - {x: 26, y: 46}
+      - - {x: 49, y: 37}
+        - {x: 50, y: -56}
+        - {x: 26, y: 46}
+      - - {x: 54, y: 0}
+        - {x: 50, y: -56}
+        - {x: 49, y: 37}
+      - - {x: 54, y: -46}
+        - {x: 50, y: -56}
+        - {x: 54, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_8
+      rect:
+        serializedVersion: 2
+        x: 10.02675
+        y: 132.0761
+        width: 108.9465
+        height: 116.8762
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54, y: -44}
+        - {x: -54, y: -8}
+        - {x: -47, y: -58}
+      - - {x: -46, y: 36}
+        - {x: -47, y: -58}
+        - {x: -54, y: -8}
+      - - {x: -42, y: -60}
+        - {x: -47, y: -58}
+        - {x: -46, y: 36}
+      - - {x: -26, y: 43}
+        - {x: -42, y: -60}
+        - {x: -46, y: 36}
+      - - {x: 30, y: -60}
+        - {x: -42, y: -60}
+        - {x: -26, y: 43}
+      - - {x: -18, y: 43}
+        - {x: 30, y: -60}
+        - {x: -26, y: 43}
+      - - {x: -12, y: 44}
+        - {x: 30, y: -60}
+        - {x: -18, y: 43}
+      - - {x: -11, y: 46}
+        - {x: 30, y: -60}
+        - {x: -12, y: 44}
+      - - {x: 23, y: 46}
+        - {x: 30, y: -60}
+        - {x: -11, y: 46}
+      - - {x: 25, y: 46}
+        - {x: 30, y: -60}
+        - {x: 23, y: 46}
+      - - {x: 48, y: 27}
+        - {x: 30, y: -60}
+        - {x: 25, y: 46}
+      - - {x: 55, y: -54}
+        - {x: 30, y: -60}
+        - {x: 48, y: 27}
+      - - {x: 55, y: -4}
+        - {x: 55, y: -54}
+        - {x: 48, y: 27}
+      - - {x: 15, y: 49}
+        - {x: 15, y: 56}
+        - {x: 16, y: 48}
+      - - {x: 18, y: 57}
+        - {x: 16, y: 48}
+        - {x: 15, y: 56}
+      - - {x: 23, y: 46}
+        - {x: 16, y: 48}
+        - {x: 18, y: 57}
+      - - {x: 27, y: 57}
+        - {x: 23, y: 46}
+        - {x: 18, y: 57}
+      - - {x: 25, y: 46}
+        - {x: 23, y: 46}
+        - {x: 27, y: 57}
+      - - {x: 30, y: 46}
+        - {x: 25, y: 46}
+        - {x: 27, y: 57}
+      - - {x: 32, y: 52}
+        - {x: 30, y: 46}
+        - {x: 27, y: 57}
+      - - {x: 32, y: 47}
+        - {x: 30, y: 46}
+        - {x: 32, y: 52}
+      - - {x: -30, y: 45}
+        - {x: -30, y: 49}
+        - {x: -29, y: 43}
+      - - {x: -16, y: 55}
+        - {x: -29, y: 43}
+        - {x: -30, y: 49}
+      - - {x: -26, y: 43}
+        - {x: -29, y: 43}
+        - {x: -16, y: 55}
+      - - {x: -18, y: 46}
+        - {x: -26, y: 43}
+        - {x: -16, y: 55}
+      - - {x: -11, y: 46}
+        - {x: -18, y: 46}
+        - {x: -16, y: 55}
+      - - {x: -9, y: 55}
+        - {x: -11, y: 46}
+        - {x: -16, y: 55}
+      - - {x: -9, y: 49}
+        - {x: -11, y: 46}
+        - {x: -9, y: 55}
+      - - {x: -26, y: 43}
+        - {x: -18, y: 46}
+        - {x: -18, y: 43}
+      - - {x: -12, y: 44}
+        - {x: -18, y: 43}
+        - {x: -18, y: 46}
+      - - {x: -11, y: 46}
+        - {x: -12, y: 44}
+        - {x: -18, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 260.0761
+        width: 128
+        height: 113.881
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24, y: 51}
+        - {x: -25, y: 48}
+        - {x: -33, y: 51}
+      - - {x: -25, y: 43}
+        - {x: -33, y: 51}
+        - {x: -25, y: 48}
+      - - {x: -64, y: -59}
+        - {x: -64, y: 7}
+        - {x: -54, y: -60}
+      - - {x: -33, y: 51}
+        - {x: -54, y: -60}
+        - {x: -64, y: 7}
+      - - {x: 46, y: -60}
+        - {x: -54, y: -60}
+        - {x: -33, y: 51}
+      - - {x: -25, y: 43}
+        - {x: 46, y: -60}
+        - {x: -33, y: 51}
+      - - {x: -20, y: 43}
+        - {x: 46, y: -60}
+        - {x: -25, y: 43}
+      - - {x: -8, y: 47}
+        - {x: 46, y: -60}
+        - {x: -20, y: 43}
+      - - {x: -8, y: 51}
+        - {x: 46, y: -60}
+        - {x: -8, y: 47}
+      - - {x: 29, y: 51}
+        - {x: 46, y: -60}
+        - {x: -8, y: 51}
+      - - {x: 64, y: -9}
+        - {x: 46, y: -60}
+        - {x: 29, y: 51}
+      - - {x: 58, y: -45}
+        - {x: 46, y: -60}
+        - {x: 64, y: -9}
+      - - {x: 63, y: -38}
+        - {x: 58, y: -45}
+        - {x: 64, y: -9}
+      - - {x: 64, y: -36}
+        - {x: 63, y: -38}
+        - {x: 64, y: -9}
+      - - {x: -24, y: 51}
+        - {x: -23, y: 53}
+        - {x: -8, y: 51}
+      - - {x: -17, y: 54}
+        - {x: -8, y: 51}
+        - {x: -23, y: 53}
+      - - {x: -8, y: 54}
+        - {x: -8, y: 51}
+        - {x: -17, y: 54}
+      - - {x: -25, y: 43}
+        - {x: -25, y: 48}
+        - {x: -20, y: 43}
+      - - {x: -24, y: 51}
+        - {x: -20, y: 43}
+        - {x: -25, y: 48}
+      - - {x: -8, y: 51}
+        - {x: -20, y: 43}
+        - {x: -24, y: 51}
+      - - {x: -8, y: 47}
+        - {x: -20, y: 43}
+        - {x: -8, y: 51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Default Sprite Asset_12
+      rect:
+        serializedVersion: 2
+        x: 10.02675
+        y: 4.07612
+        width: 108.9465
+        height: 105.8478
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54, y: -60}
+        - {x: -54, y: 7}
+        - {x: 44, y: -60}
+      - - {x: -37, y: 46}
+        - {x: 44, y: -60}
+        - {x: -54, y: 7}
+      - - {x: 31, y: 46}
+        - {x: 44, y: -60}
+        - {x: -37, y: 46}
+      - - {x: 50, y: 37}
+        - {x: 44, y: -60}
+        - {x: 31, y: 46}
+      - - {x: 50, y: -55}
+        - {x: 44, y: -60}
+        - {x: 50, y: 37}
+      - - {x: 55, y: -45}
+        - {x: 50, y: -55}
+        - {x: 50, y: 37}
+      - - {x: 55, y: -5}
+        - {x: 55, y: -45}
+        - {x: 50, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Default Sprite Asset_0: 21300000
+      Default Sprite Asset_1: 21300002
+      Default Sprite Asset_11: 21300018
+      Default Sprite Asset_12: 21300020
+      Default Sprite Asset_13: 21300022
+      Default Sprite Asset_14: 21300024
+      Default Sprite Asset_15: 21300026
+      Default Sprite Asset_2: 21300004
+      Default Sprite Asset_3: 21300006
+      Default Sprite Asset_4: 21300008
+      Default Sprite Asset_5: 21300010
+      Default Sprite Asset_6: 21300012
+      Default Sprite Asset_7: 21300014
+      Default Sprite Asset_8: 21300016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

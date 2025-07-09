@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8b5ab6feb470a9ef346e714d9eeeb15, type: 3}
+  m_Name: "TMP Settings"
+  m_EditorClassIdentifier: 
+  m_enableWordWrapping: 1
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  m_enableTintAllSprites: 0
+  m_enableParseEscapeCharacters: 0
+  m_missingGlyphCharacter: 0
+  m_warningsDisabled: 0
+  m_defaultFontAsset: {fileID: 11400000, guid: c342eae1d1e44eda8f4956e7107f6c70, type: 2}
+  m_fallbackFontAssets: []
+  m_defaultSpriteAsset: {fileID: 11400000, guid: e4de7dbb4da64ce9b8a15e9d8b23e2d7, type: 2}
+  m_defaultStyleSheet: {fileID: 11400000, guid: f40bb55c8c5c4038b7cbc89d0cd39524, type: 2}
+  m_leadingCharacters: {fileID: 4900000, guid: 9892315d737348c5be4e919237e99213, type: 3}
+  m_followingCharacters: {fileID: 4900000, guid: af97f60115fa434787cfd42e4c25f14f, type: 3}

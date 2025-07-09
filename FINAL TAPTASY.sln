@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1F663AE9-3D8F-E295-5A07-CE1EB8C966F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.Play.Games", "Google.Play.Games.csproj", "{D8E58F68-6B1E-B404-99B9-A41EAF56B063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{EEAEB31C-AD97-3B5B-843B-12A4A756F15D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.Play.Games.Editor", "Google.Play.Games.Editor.csproj", "{714D4C68-506C-0615-762E-AAC35162E71E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F663AE9-3D8F-E295-5A07-CE1EB8C966F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F663AE9-3D8F-E295-5A07-CE1EB8C966F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F663AE9-3D8F-E295-5A07-CE1EB8C966F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F663AE9-3D8F-E295-5A07-CE1EB8C966F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E58F68-6B1E-B404-99B9-A41EAF56B063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E58F68-6B1E-B404-99B9-A41EAF56B063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E58F68-6B1E-B404-99B9-A41EAF56B063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E58F68-6B1E-B404-99B9-A41EAF56B063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEAEB31C-AD97-3B5B-843B-12A4A756F15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAEB31C-AD97-3B5B-843B-12A4A756F15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAEB31C-AD97-3B5B-843B-12A4A756F15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAEB31C-AD97-3B5B-843B-12A4A756F15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714D4C68-506C-0615-762E-AAC35162E71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714D4C68-506C-0615-762E-AAC35162E71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714D4C68-506C-0615-762E-AAC35162E71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714D4C68-506C-0615-762E-AAC35162E71E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
